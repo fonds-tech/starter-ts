@@ -7,7 +7,7 @@ packages:
 catalog:
   '@antfu/ni': ^27.0.1
   '@antfu/utils': ^9.3.0
-  '@fonds/eslint-config': ^1.0.13
+  '@fonds/eslint-config': ^1.0.14
   '@types/node': ^24.10.0
   bumpp: ^10.3.1
   eslint: ^9.39.1
